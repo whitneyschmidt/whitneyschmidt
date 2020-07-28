@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there, I'm Whitney :wave:
+#### (She/Her/Hers)
+
+ :computer: Xamarin.iOS + Xamarin.Mac engineer :monkey_face:
 
 <!--
 **whitneyschmidt/whitneyschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
