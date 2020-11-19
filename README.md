@@ -1,7 +1,8 @@
 ## Hi there, I'm Whitney :wave:
 #### (She/Her/Hers)
 
- :computer: Xamarin.iOS + Xamarin.Mac engineer :monkey_face:
+:computer: Visual Studio IDE Version Control 🌳<br />
+:rewind: Previously Xamarin.iOS + Xamarin.Mac :monkey_face:<br />
 
 <!--
 **whitneyschmidt/whitneyschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
