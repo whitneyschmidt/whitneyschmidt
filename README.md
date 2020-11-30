@@ -2,7 +2,7 @@
 #### (She/Her/Hers)
 
 :computer: Visual Studio IDE Version Control 🌳<br />
-:rewind: Previously Xamarin.iOS + Xamarin.Mac :monkey_face:<br />
+:rewind: Previously Xamarin.iOS + Xamarin.Mac SDK :monkey_face:<br />
 
 <!--
 **whitneyschmidt/whitneyschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
